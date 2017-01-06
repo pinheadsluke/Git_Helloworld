@@ -11,14 +11,6 @@
 
 	<p>
 		Try to see
-
-	</p>
-
-</div>
-
-<div id="section">
-	<p>
-		Something occur
 	</p>
 </div>
 </body>
